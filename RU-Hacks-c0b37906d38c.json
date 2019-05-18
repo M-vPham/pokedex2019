@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rock-galaxy-241009",
+  "private_key_id": "c0b37906d38c905ba70b90134ceb6e1b6f32503d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLRcYCHxdCdv+q\n2bFVbA1bp5mhoeDBSpERTpEVashBd+n9gJq2OPfzXu3hs++nuHgF4d/NRQGNQmQw\nSIoUt/9Tff/C8+uaGMViH2nu1rzQqsuFU4OOflFTz6kY5dCzEv+AN99XiTQiA2GA\ndlnFwkKCaxJlhgYF1CWxz6FKqVRSgn/4acpk8lDCd4+MyrlHd7bPyZBEN+YNCkHE\nPN0WrBvd0yAS+rBqEMMohFZyMC6dnz3G6tgPT5EIoNw/u5nXuT0a00p7uRLQyQlH\nAFlKgRZBejqATX4sXT3NdRC+5TCWXgx1qQ4BVfjxumSfRFmqJh6eyg6AywvUwrFw\n2WXq5z6pAgMBAAECggEAAsclM7f4TceZypxPPrk7bQBbOoDfdRDHbv69f5cOHcvt\nWhIo+xrH867dTh9zA94i4MSzlebupJ8uxpSlM2+IyRuwlDnYY0qZnvPKMzIC0lC1\nN5EavAaopp4ww8b3PU1CCd7pmdUFjf3xFgv4Adp75XOgZJwKZse9jKKnZAFwpjB9\nYk9hwS40RGRcymELGyn2qiMjbfHM0mS+S7GZDDwFJ3lbgA4juD8vu2K7roTLagK8\nacrhQFnuuo2vUY23v9oJFCtHBGs4T5JPmyPnck8MnixbwGd6Boqv8MRm9GwxYLjo\nSoHc/xuaRi1JvygefSQVqoXrQGjrPv5GWhrvFtskMQKBgQDkeulBmLN/J18599uT\nsQJhT4ohiHz7EGSr2plsauXPd2wxs5HnnWVGSjySgskitVLDuZ6YVcg69lIhqryX\n8eysasUl1CC2M1T571V/fe4TzENOrIrpScixRc01eQGsSG7A78RG78/cB0YmF+8q\npIFkK/TMMdvEGb5svM+4eEAvWQKBgQDjwZj0ZX/32CeucVwNxL5XlIbfOJLupbwT\noEfwoS3oyd5z6vaodhbJ6mcLgBO1mwJcPuCw/eXIDUI5dbj/qZ7+mpZceqbEN835\ntFic7VbTqRB/fhZsJgMQhtfZUn6jhTKkDHoyOoxmOUptWYfOXx/MmpxxRQ92oeSe\n6wzx26Fv0QKBgCOGcOpAIfitWIMc5MlMBoC261VXcYdf/ycxcBWJcX4WpX3827zV\nnj+Vn2FwcHGzG9FO9TfebqmsTwzpDTXa6d/NIiZFm2h5BsdtzS9rly8A3Z5H+blY\nPZpCriuYSwhMotvg6/XTp9AgWWnm4ssQlQXMR93QCsms7wzdNrcKC4DRAoGAVp+l\nax7Hox5FSWW4G0x/EJRfD7tWtwm2FMjbU7wZ1/Yfc3skQUJYvIc4lfkqheHk7ezE\nTMzkfkf8rhoGOMbsv+1PzvCfSPXok1ZydY0Xfv1IVxU/tfZnJ/wBUJi9rbfVYOuV\n9lCqYZ7cneZ1bppjX9BWPAaGMRq193NywvJD3mECgYEAsUeDBDpTuo4XROMz5i+j\nqpdrczH0s9UXwYjKLGKsO9WqR8UimKrYVzzQe/mlRlV8gg1Xtuhg6/R00w08w+8K\nYiMkNVAoBzQuaFcb0nESlVqYzNgrCXGrFvDaMloRjT5pKsCOurAYejBQo7CshXzC\nNki9LCU9jzhCgg6iDi+3qA8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "michellepham@rock-galaxy-241009.iam.gserviceaccount.com",
+  "client_id": "113720008936284364707",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/michellepham%40rock-galaxy-241009.iam.gserviceaccount.com"
+}
