@@ -1,26 +1,23 @@
-import React from 'react';
+/**You import the containers into this file */
+import React, {Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
+import FirstComponent from './components/FirstComponent';
+import OpeningPage from './container/OpeningPage';
+import filterPage from './container/filterPage';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <header className="App-header">
+          <OpeningPage></OpeningPage>
+          <FirstComponent displaytext="First Component Data"/>
+
+        </header>
+      </div>
+    );
+  }
 }
 
 export default App;
