@@ -2,17 +2,19 @@
   height: 98vh;
 }
 
-.App-Nav {
-  list-style: none;
+@media only screen and (max-width: 768px) {
+  .App-Nav-Container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .App-Nav-Button {
-  position: absolute;
-  width: 630px;
-  height: 108px;
-  left: 405px;
-  top: 396px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
   background: #c4c4c4;
-  border-radius: 50px;
+  border-radius: 0.75rem;
 }
