@@ -2,9 +2,9 @@
 import React from 'react';
 import { Router, Route } from 'react-router-dom';
 import 'bulma/css/bulma.min.css';
-import './index.css';
 // eslint-disable-next-line import/imports-first
 import { Button, Columns, Column } from 'bloomer';
+import './index.css';
 import AppHeader from './components/AppHeader.jsx';
 import DirectoryPage from './components/DirectoryPage.jsx';
 import TeamBuilderPage from './components/TeamBuilderPage.jsx';
