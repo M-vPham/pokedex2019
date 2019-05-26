@@ -6,7 +6,12 @@
     "prettier/react",
     "prettier/standard"
   ],
-  "plugins": ["import", "jsx-a11y", "react", "prettier"],
+  "plugins": ["import", "jsx-a11y", "react", "jest", "prettier"],
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true
+  },
   "rules": {
     "react/jsx-filename-extension": [
       1,
@@ -17,7 +22,16 @@
     "react/prop-types": 0,
     "no-underscore-dangle": 0,
     "import/imports-first": ["error", "absolute-first"],
-    "import/newline-after-import": "error"
+    "import/newline-after-import": "error",
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "jsx": "always",
+        "json": "always",
+        "css": "always"
+      }
+    ]
   },
   "globals": {
     "window": true,
