@@ -1,13 +1,18 @@
 .App {
-  text-align: center;
+  height: 98vh;
 }
-.opening buttons{
+
+.App-Nav {
+  list-style: none;
+}
+
+.App-Nav-Button {
   position: absolute;
   width: 630px;
   height: 108px;
   left: 405px;
   top: 396px;
 
-  background: #C4C4C4;
+  background: #c4c4c4;
   border-radius: 50px;
 }
